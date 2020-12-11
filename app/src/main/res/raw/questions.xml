@@ -1,0 +1,288 @@
+<quiz>
+    <question
+        AnswerFake1="1910"
+        AnswerFake2="1912"
+        AnswerFake3="1909"
+        AnswerTrue="1911"
+        CauHoi="Hồ Chí Minh ra đi tìm đường cứu nước vào năm nào?"
+        Suggest="Năm đó người 21 tuổi." />
+
+    <question
+        AnswerFake1="Pháp"
+        AnswerFake2="Ukraina"
+        AnswerFake3="Ả rập Saudi"
+        AnswerTrue="Nga"
+        CauHoi="World Cup 2018 được tổ chức tại quốc gia nào?"
+        Suggest="Đất nước có lãnh thổ trải dài qua 2 châu lục" />
+    <question
+        AnswerFake1="1000"
+        AnswerFake2="1234"
+        AnswerFake3="1240"
+        AnswerTrue="1024"
+        CauHoi="1 GB = ? MB"
+        Suggest="2 mũ 10" />
+    <question
+        AnswerFake1="Li li "
+        AnswerFake2="Ti ti"
+        AnswerFake3="Ti li"
+        AnswerTrue="Li ti"
+        CauHoi="Đâu là tên 1 nguyên tố hóa học?"
+        Suggest="Nguyên tố có số hiệu nguyên tử là 3" />
+    <question
+        AnswerFake1="2020"
+        AnswerFake2="2000"
+        AnswerFake3="1990"
+        AnswerTrue="2010"
+        CauHoi="Thăng Long Hà Nội 1000 tuổi vào năm nào?"
+        Suggest="Thăng Long được đặt tên vào năm 1010" />
+    <question
+        AnswerFake1="Chói"
+        AnswerFake2="Tươi"
+        AnswerFake3="Cháy"
+        AnswerTrue="Rạng"
+        CauHoi="Gần mực thì đen, gần đèn thì…?"
+        Suggest="Từ đồng nghĩa với từ sáng" />
+    <question
+        AnswerFake1="Đường phèn"
+        AnswerFake2="Đường cát"
+        AnswerFake3="Đường thốt nốt"
+        AnswerTrue="Đường nhựa"
+        CauHoi="Đâu không phải một loại thực phẩm?"
+        Suggest="Đường để đi" />
+    <question
+        AnswerFake1="Soobin Hoàng Sơn"
+        AnswerFake2="Noo Phước Thịnh"
+        AnswerFake3="Tùng Dương"
+        AnswerTrue="Sơn Tùng MTP"
+        CauHoi="Ca sĩ nào là chủ nhân của bản hit Em của hôm ngày qua?"
+        Suggest="Sky'ss ơiiiiii" />
+    <question
+        AnswerFake1="C"
+        AnswerFake2="X"
+        AnswerFake3="Z"
+        AnswerTrue="P"
+        CauHoi="Trong Word, để dán ta dùng tổ hợp phím Ctrl+… ?"
+        Suggest="Viết tắt của từ dán trong tiếng Anh" />
+    <question
+        AnswerFake1="Chelsea"
+        AnswerFake2="Tottenham Hospur"
+        AnswerFake3="West Ham United"
+        AnswerTrue="Arsenal"
+        CauHoi="Đội bóng nào có biệt danh là Pháo thủ thành London?"
+        Suggest="Là đội có đồng phục sân nhà màu đỏ trắng" />
+    <question
+        AnswerFake1="Lưỡi lê"
+        AnswerFake2="Lưỡi kiếm"
+        AnswerFake3="Lưỡi rắn"
+        AnswerTrue="Lưỡi trai"
+        CauHoi="Đâu là tên 1 loại mũ?"
+        Suggest="Hải sản" />
+    <question
+        AnswerFake1="Sinh trưởng"
+        AnswerFake2="Sinh nở"
+        AnswerFake3="Sinh sôi"
+        AnswerTrue="Sinh viên"
+        CauHoi="Từ nào khác nghĩa với những từ còn lại?"
+        Suggest="Học sinh " />
+    <question
+        AnswerFake1="Hành"
+        AnswerFake2="Riềng"
+        AnswerFake3="Ấu"
+        AnswerTrue="Nghệ"
+        CauHoi="Loại củ nào giúp vết thương mau lành, không để lại sẹo?"
+        Suggest="Vàng như…" />
+    <question
+        AnswerFake1="1 món ăn"
+        AnswerFake2="1 loại cây"
+        AnswerFake3="1 địa danh"
+        AnswerTrue="1 hiệu tượng thời tiết"
+        CauHoi="El Nino gì là ?"
+        Suggest="Nóng" />
+    <question
+        AnswerFake1="Rắn"
+        AnswerFake2="Bạch tuộc"
+        AnswerFake3="Đại bàng"
+        AnswerTrue="Ếch"
+        CauHoi="Nòng nọc xuất hiện trong vòng đời của loài vật nào?"
+        Suggest="Loài lưỡng cư" />
+    <question
+        AnswerFake1="Tô Hoài"
+        AnswerFake2="Vũ Trọng Phụng"
+        AnswerFake3="Hồ Xuân Hương"
+        AnswerTrue="Nam Cao"
+        CauHoi="Lão Hạc là tác phẩm của ai?"
+        Suggest="Đồng thời là tác giả của Chí Phèo" />
+    <question
+        AnswerFake1="Quảng Bình"
+        AnswerFake2="Quảng Ngãi"
+        AnswerFake3="Quảng Nam"
+        AnswerTrue="Quảng Trị"
+        CauHoi="Sông Bến Hải nằm ở tỉnh nào?"
+        Suggest="Thành cổ … 72 ngày đêm" />
+    <question
+        AnswerFake1="Nhà Lý"
+        AnswerFake2="Nhà Trần"
+        AnswerFake3="Nhà Đinh"
+        AnswerTrue="Nhà Hồ"
+        CauHoi="Đại Ngu là quốc hiệu nước ta vào thời nào?"
+        Suggest="1400-1407" />
+    <question
+        AnswerFake1="Trung Quốc"
+        AnswerFake2="Hàn Quốc"
+        AnswerFake3="Triều Tiên"
+        AnswerTrue="Nhật Bản"
+        CauHoi="Đất nước mặt trời mọc là biệt danh của quốc gia nào?"
+        Suggest="Manga, Anime,…" />
+    <question
+        AnswerFake1="Edison"
+        AnswerFake2="Tesla"
+        AnswerFake3="Churchill"
+        AnswerTrue="Einstein"
+        CauHoi="Ai là cha để của thuyết tương đối?"
+        Suggest="Nổi tiếng với mái tóc bạc xoăn xù" />
+    <question
+        AnswerFake1="Duy Tân"
+        AnswerFake2="Hàm Nghi"
+        AnswerFake3="Lê Thánh Tông"
+        AnswerTrue="Bảo Đại"
+        CauHoi="Vị vua cuối cùng của Việt Nam?"
+
+        Suggest="xem MV Không thể cùng nhau suốt kiếp của Hoà Minzy" />
+    <question
+        AnswerFake1="H2O"
+        AnswerFake2="NaCl"
+        AnswerFake3="CuO"
+        AnswerTrue="HCL"
+        CauHoi="Chất hóa học nào rất độc?"
+        Suggest="Axit" />
+
+    <question
+        AnswerFake1="Biển Đen"
+        AnswerFake2="Biển Đỏ"
+        AnswerFake3="Biển Đông"
+        AnswerTrue="Biển Chết"
+        CauHoi="Biển có nồng độ muối lớn nhất thế giới?"
+        Suggest="Là biển chết đấy" />
+    <question
+        AnswerFake1="Tàu hỏa"
+        AnswerFake2="Tàu điện"
+        AnswerFake3="Xích lô"
+        AnswerTrue="Tàu thủy"
+        CauHoi="Chân vịt là bộ phận của phương tiện nào?"
+        Suggest="Bơi được" />
+    <question
+        AnswerFake1="Cá"
+        AnswerFake2="Bò"
+        AnswerFake3="Mèo"
+        AnswerTrue="Dơi"
+        CauHoi="Con vật thường treo ngược khi ngủ"
+        Suggest="Trong hang động" />
+    <question
+        AnswerFake1="Rồng Komodo"
+        AnswerFake2="Gấu Koala"
+        AnswerFake3="Kangaroo"
+        AnswerTrue="Tắc kè hoa"
+        CauHoi="Con vật có thể thay đổi màu sắc cơ thể?"
+        Suggest="là tắc kè đấy" />
+    <question
+        AnswerFake1="1111"
+        AnswerFake2="2"
+        AnswerFake3="51"
+        AnswerTrue="15"
+        CauHoi="1111 ở hệ nhị phân, khi đổi sang hệ thập phân bằng bao nhiêu?"
+        Suggest="8+4+1+1" />
+    <question
+        AnswerFake1="Kim chi"
+        AnswerFake2="Bánh pía"
+        AnswerFake3="Rựa mận"
+        AnswerTrue="Há cảo"
+        CauHoi="Món ăn có nguồn gốc từ Trung Quốc?"
+        Suggest="rõ ràng là há cảo mà" />
+    <question
+        AnswerFake1="Đài Loan"
+        AnswerFake2="Singapore"
+        AnswerFake3="Triều Tiên"
+        AnswerTrue="Hồng Công"
+        CauHoi="Xứ cảng thơm là tên gọi khác của nơi nào?"
+        Suggest="Nơi có ngành điện ảnh phát triển" />
+    <question
+        AnswerFake1="Khổng Tử "
+        AnswerFake2="Mạnh Tử"
+        AnswerFake3="Khổng Minh"
+        AnswerTrue="Tôn Tử"
+        CauHoi="Tác giả của bộ binh pháp nổi tiếng?"
+        Suggest="Binh pháp Tôn Tử" />
+    <question
+        AnswerFake1="Lửa"
+        AnswerFake2="Đau"
+        AnswerFake3="Súng"
+        AnswerTrue="Sức"
+        CauHoi="Lửa thử vàng, gian nan thử …"
+        Suggest="sức đó" />
+    <question
+        AnswerFake1="Tre"
+        AnswerFake2="Nứa"
+        AnswerFake3="Gỗ"
+        AnswerTrue="Giấy Dó"
+        CauHoi="Tranh Đông Hồ được vẽ trên chất liệu gì?"
+        Suggest="là giấy dó" />
+    <question
+        AnswerFake1="20 tháng 10"
+        AnswerFake2="20 tháng 9"
+        AnswerFake3="20 tháng 8"
+        AnswerTrue="20 tháng 11"
+        CauHoi="Ngày nhà giáo Việt Nam?"
+        Suggest="20-Nov" />
+    <question
+        AnswerFake1="Ông ngoại"
+        AnswerFake2="Ông trẻ"
+        AnswerFake3="Dượng"
+        AnswerTrue="Ông nội"
+        CauHoi="Bố của bố mình gọi là?"
+        Suggest="dễ như này mà còn cần gợi ý :(" />
+    <question
+        AnswerFake1="A"
+        AnswerFake2="X"
+        AnswerFake3="O"
+        AnswerTrue="S"
+        CauHoi="Bản đồ nước ta hình chữ gì?"
+        Suggest="nhìn bản đồ đi" />
+
+    <question
+        AnswerFake1="4"
+        AnswerFake2="3"
+        AnswerFake3="2"
+        AnswerTrue="5"
+        CauHoi="Khiêm tốn, thật thà, dũng cảm là điều thứ mấy trong 5 điều Bác Hồ dạy?"
+        Suggest="tự nhẩm lại đi" />
+    <question
+        AnswerFake1="100"
+        AnswerFake2="1000"
+        AnswerFake3="10000"
+        AnswerTrue="10"
+        CauHoi="1 thập kỉ gồm bao nhiêu năm?"
+        Suggest="thập = ?" />
+
+    <question
+        AnswerFake1="1"
+        AnswerFake2="0"
+        AnswerFake3="4"
+        AnswerTrue="2"
+        CauHoi="Trong cờ tướng, mỗi bên có bao nhiêu quân pháo?"
+        Suggest="có chiêu pháo lồng" />
+    <question
+        AnswerFake1="Tây Ban Nha"
+        AnswerFake2="Pháp"
+        AnswerFake3="Anh"
+        AnswerTrue="Bồ Đào Nha"
+        CauHoi="Người Brazil nói tiếng gì?"
+        Suggest="Bồ" />
+    <question
+        AnswerFake1="Brazil"
+        AnswerFake2="Anh "
+        AnswerFake3="Pháp"
+        AnswerTrue="Argentina"
+        CauHoi="Messi người nước nào?"
+        Suggest="ác hen ti na" />
+
+</quiz>

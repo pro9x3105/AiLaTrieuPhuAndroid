@@ -1,0 +1,52 @@
+<player>
+    <highscore
+        HoTen="Nguyễn Quang Anh"
+        Money="100"
+        Score="1" />
+
+    <highscore
+        HoTen="Vũ Trung Kiên"
+        Money="200"
+        Score="2" />
+
+    <highscore
+        HoTen="Dương Minh Tiến"
+        Money="500"
+        Score="3" />
+
+    <highscore
+        HoTen="Nguyễn Văn A"
+        Money="500"
+        Score="2" />
+
+    <highscore
+        HoTen="Nguyễn Văn B"
+        Money="1100"
+        Score="10" />
+
+    <highscore
+        HoTen="Nguyễn Văn C"
+        Money="1200"
+        Score="10" />
+
+    <highscore
+        HoTen="Nguyễn Văn D"
+        Money="1100"
+        Score="9" />
+
+    <highscore
+        HoTen="Nguyễn Văn E"
+        Money="0"
+        Score="0" />
+
+    <highscore
+        HoTen="Nguyễn Văn F"
+        Money="300"
+        Score="1" />
+
+    <highscore
+        HoTen="Nguyễn Văn G"
+        Money="9999"
+        Score="15" />
+
+</player>

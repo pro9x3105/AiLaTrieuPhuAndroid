@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuestionInsert">
+
+    <EditText
+        android:id="@+id/editTextSuggestInsert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewSuggestInsert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewSuggestInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Gợi ý : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAnswerFake3Insert" />
+
+    <EditText
+        android:id="@+id/editTextAnswerFake3Insert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewAnswerFake3Insert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewAnswerFake3Insert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Đáp án fake : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAnswerFake2Insert" />
+
+    <EditText
+        android:id="@+id/editTextAnswerTrueInsert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewAnswerTrueInsert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewAnswerTrueInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Đáp án đúng : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewCauHoiInsert" />
+
+    <EditText
+        android:id="@+id/editTextCauHoiInsert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewCauHoiInsert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewCauHoiInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Câu hỏi : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSTTInsert" />
+
+    <EditText
+        android:id="@+id/editTextSTTInsert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewSTTInsert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <EditText
+        android:id="@+id/editTextAnswerFake2Insert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewAnswerFake2Insert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewAnswerFake2Insert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Đáp án fake : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAnswerFake1Insert" />
+
+    <EditText
+        android:id="@+id/editTextAnswerFake1Insert"
+        android:layout_width="214dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewAnswerFake1Insert"
+        app:layout_constraintStart_toEndOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewAnswerFake1Insert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Đáp án fake : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAnswerTrueInsert" />
+
+    <TextView
+        android:id="@+id/textViewSTTInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="ID : "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonInsertInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:text="ButtonMode"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSuggestInsert" />
+
+    <Button
+        android:id="@+id/buttonBackInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:text="Back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSuggestInsert" />
+
+    <Button
+        android:id="@+id/buttonResetInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Làm Lại"
+        app:layout_constraintEnd_toStartOf="@+id/buttonBackInsert"
+        app:layout_constraintStart_toEndOf="@+id/buttonInsertInsert"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSuggestInsert" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
